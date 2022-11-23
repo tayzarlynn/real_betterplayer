@@ -1,4 +1,5 @@
 class Constants {
+  static const String mntvLink ='https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIxIDE6NTM6MzQgUE0maGFzaF92YWx1ZT1Rd3VHWkNUOEpBajRXTUUyUGN0OUtRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTI4';
   static const String bugBuckBunnyVideoUrl =
       "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4";
   static const String forBiggerBlazesUrl =
